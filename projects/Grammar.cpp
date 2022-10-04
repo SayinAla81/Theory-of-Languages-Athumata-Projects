@@ -38,7 +38,6 @@ void show()
     cout << endl << endl;
 }
 
-
 void nullable_production()
 {
     vector <char> simplification;
