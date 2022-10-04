@@ -44,6 +44,7 @@ vl DFS(int s, vector<vll> v)
 	}
 	return test;
 }
+
 int main(){
     ll nn, counter = 0;
     string s[3], now = "";
