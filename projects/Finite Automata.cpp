@@ -20,7 +20,7 @@ ll find_string(string s, vector <string> findd)
 
 int main()
 {
-    ll n, counter = 0, ans = 0;
+    ll n, counter = 0, ans =0;
     string s[3], now = "";
     cin >> s[0] >> s[1] >> s[2] >> n;
     vector <string> state, lan, final_state;
